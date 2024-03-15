@@ -1,7 +1,6 @@
 # The OMDB Angular User Interface
 Aplicação para busca de filmes usando a API OMDB criada em Angular.
-![Example](https://raw.githubusercontent.com/Dadarkp3/movies/master/src/assets/readme/Capturar.PNG)
-![Example](https://raw.githubusercontent.com/Dadarkp3/movies/master/src/assets/readme/Capturar2.PNG)
+
 ## BUILD E EXECUÇÃO
 ### Running locally
 
